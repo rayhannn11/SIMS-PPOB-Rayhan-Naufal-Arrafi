@@ -93,7 +93,7 @@ const Login = () => {
           <div className="w-4/5">
             <div className="flex items-center justify-center gap-3 mb-6">
               <img
-                src="/public/assets/Logo.png"
+                src={images.logo}
                 alt="Logo"
                 className="w-10 h-10 object-cover"
               />
