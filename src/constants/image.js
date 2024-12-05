@@ -1,0 +1,25 @@
+const images = {
+  backgroundSaldo: "/assets/background-saldo.png",
+  banner1: "/assets/banner-1.png",
+  banner2: "/assets/banner-2.png",
+  banner3: "/assets/banner-3.png",
+  banner4: "/assets/banner-4.png",
+  banner5: "/assets/banner-5.png",
+  game: "/assets/game.png",
+  ilustrasiLogin: "/assets/illustrasi-login.png",
+  kurban: "/assets/kurban.png",
+  listrik: "/assets/listrik.png",
+  logo: "/assets/logo.png",
+  musik: "/assets/musik.png",
+  paketData: "/assets/paket-data.png",
+  pbb: "/assets/pbb.png",
+  pdam: "/assets/pdam.png",
+  pgn: "/assets/pgn.png",
+  profilePhoto: "/assets/profile-photo.png",
+  pulsa: "/assets/pulsa.png",
+  televisi: "/assets/televisi.png",
+  vocherMakanan: "/assets/vocher-makanan.png",
+  zakat: "/assets/zakat.png",
+};
+
+export default images;
